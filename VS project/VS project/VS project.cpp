@@ -8,5 +8,6 @@ int main()
 {
 	int cool = 3;
     return 0;
+	int newint = 4;
 }
 
